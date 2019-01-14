@@ -23,6 +23,6 @@ function incrementVariable() {
 }
 
 do{
-  array.pop
-}
+  array.pop();
+} while ()
 }
