@@ -6,18 +6,22 @@ function forLoop(array){
       else {
       array.push(`I am ${i} strange loops.`)
       }
-    } return array
+    } return array;
 }
 
 function whileLoop(n){
   while (n>0){
   console.log(--n); 
 }
-return 'done'
+return 'done';
 }
 
 function doWhileLoop(array){
-function incrementVariable() {
+do{
+  
+}
+while incrementVariable() {
   i = i + 1;
 }
+return array
 }
