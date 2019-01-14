@@ -17,14 +17,15 @@ return 'done';
 }
 
 
-function 
+function incrementVariable() {
+  i = i + 1;
+} 
 
 function doWhileLoop(array){
 do{
-  
+  console.log(--array)
 }
-while incrementVariable() {
-  i = i + 1;
+while array.length > 0 && incrementVariable()
 }
 return array
 }
