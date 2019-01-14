@@ -18,5 +18,11 @@ return 'done';
 
 
 function doWhileLoop(array){
-function 
+function incrementVariable() {
+  i = i + 1;
+}
+
+do{
+  
+}
 }
