@@ -22,8 +22,6 @@ i = i + 1;
 
 function doWhileLoop(array){
 do{
-  incrementVariable() {
-  i = i + 1;
   console.log(--array);
 }
 while (array.length > 0 && incrementVariable())
