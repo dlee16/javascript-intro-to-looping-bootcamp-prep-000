@@ -18,11 +18,5 @@ return 'done';
 
 
 function doWhileLoop(array){
-do{
-  console.log(--array);
-}
-while (array.length > 0 && incrementVariable())
-}
-return array
-}
+function 
 }
